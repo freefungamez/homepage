@@ -594,18 +594,25 @@ img {vertical-align: middle;}
 
 .ads{
 	background-color: #bbb;
-	width: 250px;
-	height: 550px;
-	position: absolute;
+	width: 100%;
+	clear: both;
+	padding: 10px;
 }
 
+.ads-size{
+	width: 80%;
+	margin: auto;
+	background-color: #111;
+}
+
+/*
 .right-ads{
 	right: 100px;
 }
 
 .left-ads{
 	left: 50px;
-}
+}*/
 
 #margin3{
 	margin-top: 25;
